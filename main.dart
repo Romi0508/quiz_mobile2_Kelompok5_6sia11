@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Kelompok 2',
+      title: 'Kelompok 5',
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
